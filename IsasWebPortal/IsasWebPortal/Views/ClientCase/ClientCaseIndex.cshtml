@@ -1,0 +1,143 @@
+﻿@model IEnumerable<IsasWebPortal.Models.ClientCase>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style type='text/css'>
+    /*設定 數字靠右*/
+    td:nth-child(6n) {
+        text-align: right;
+    }
+</style>
+
+<div>
+
+    <h4>Client Cases - @ViewBag.clientName</h4>
+    <p>
+        @Html.ActionLink("Create New", "ClientCaseCreate", "ClientCase", new { id = ViewBag.storedClientId }, null)
+    </p>
+
+</div>
+
+
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+</style>
+
+
+<div>
+
+    <table class="table table-bordered table-condensed navbar navbar-fixed nowrap header" style="position:relative; top:50px; width:100px;">
+        <tr>
+
+
+            <td>
+                @Html.DisplayName(" ")
+            </td>
+
+            <td>
+                @Html.DisplayName("Client Status")
+            </td>
+
+
+            <td>
+                @Html.DisplayName("Application Type")
+            </td>
+
+            <td>
+                @Html.DisplayName("Country")
+            </td>
+
+
+            <td>
+                @Html.DisplayName("Application Stage")
+            </td>
+
+            <td>
+                @Html.DisplayName("E-mail")
+            </td>
+
+
+
+            <td>
+                @Html.DisplayName(" ")
+            </td>
+
+
+
+
+
+
+
+
+
+        </tr>
+    </table>
+
+
+    <div class="content" style="height:300px;">
+
+        <table class="table table-bordered table-hover table-condensed nowrap data sc">
+
+            @foreach (var item in Model)
+            {
+                <tr>
+
+
+
+                    <td align="center">
+                        @Html.ActionLink("Edit", "ClientCaseEdit", new { id = item.Id })
+                    </td>
+
+
+                    <td align="center">
+                        @Html.DisplayFor(modelItem => item.clientStatusConfigs.Status)
+                    </td>
+
+                    <td align="center">
+                        @Html.DisplayFor(modelItem => item.applicationTypeConfigs.applicationType)
+                    </td>
+
+                    <td align="center">
+                        @Html.DisplayFor(modelItem => item.CountryConfigs.countryName)
+                    </td>
+
+                    <td align="center">
+                        @Html.DisplayFor(modelItem => item.stage.Title)
+                    </td>
+
+                    <td align="center">
+                        @Html.DisplayFor(modelItem => item.email)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Send Email", "SendEmail", new { id = item.Id })
+                    </td>
+
+
+
+
+
+
+
+
+                </tr>
+
+            }
+
+        </table>
+    </div>
+</div>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Styles.Render("~/Content/tablestyles.css")
+
+
+
+
+    @Scripts.Render("~/Scripts/scrollscript.js")
+
+}

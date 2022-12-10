@@ -1,0 +1,68 @@
+﻿@model IsasWebPortal.Models.AgreementTemplates
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.templateName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.templateName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.templateName,"" , new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.headerGraphicTL, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="editor-field">
+                    <input type="file" name="headerGraphicTL" />
+                </div>           
+    @*Html.EditorFor(model => model.headerGraphicTL, new { htmlAttributes = new { @class = "form-control" } }) *@
+                @Html.ValidationMessageFor(model => model.headerGraphicTL, "", new { @class = "text-danger" })
+
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.headerGraphicM, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="editor-field">
+                    <input type="file" name="headerGraphicM" />
+                </div>
+                @*Html.EditorFor(model => model.headerGraphicM, new { htmlAttributes = new { @class = "form-control" } })*@
+                @Html.ValidationMessageFor(model => model.headerGraphicM,"" , new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.headerGraphicTR, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="editor-field">
+                    <input type="file" name="headerGraphicTR" />
+                </div>
+                
+                @*Html.EditorFor(model => model.headerGraphicTR, new { htmlAttributes = new { @class = "form-control" } })*@
+                @Html.ValidationMessageFor(model => model.headerGraphicTR,"" , new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Body, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Body, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Body,"" , new { @class = "text-danger" })
+            </div>
+        </div>
+
+@Html.HiddenFor(model => model.configsId)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.signature, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="editor-field">
+                    <input type="file" name="signature" />
+                </div>
+                @*Html.EditorFor(model => model.signature, new { htmlAttributes = new { @class = "form-control" } })*@
+                @Html.ValidationMessageFor(model => model.signature,"" , new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+

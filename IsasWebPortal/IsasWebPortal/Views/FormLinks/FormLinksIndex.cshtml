@@ -1,0 +1,55 @@
+﻿@model IEnumerable<IsasWebPortal.Models.FormLinks>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style type='text/css'>
+    /*設定 數字靠右*/
+    td:nth-child(3n){text-align: right;}
+    td:nth-child(5n){text-align: right;}
+    td:nth-child(6n){text-align: right;}
+</style>
+<h2>Index</h2>
+<h4>FormLinks</h4>
+<p>
+    @Html.ActionLink("Create New", "FormLinksCreate")
+</p>
+<table class="table">
+    <tr>
+        <th></th>
+        <th>
+            @Html.DisplayNameFor(model => model.emailcommlogs.Id)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.formDatas.formDataId)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.formTemplatess.Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.formLink)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink("Edit", "FormLinksEdit", new { id=item.id })
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.emailcommlogs.Body)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.formDatas.attribute1Data)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.formTemplatess.formName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.formLink)
+        </td>
+
+    </tr>
+}
+
+</table>

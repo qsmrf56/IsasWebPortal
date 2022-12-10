@@ -1,0 +1,66 @@
+﻿@model IEnumerable<IsasWebPortal.Models.CountryConfig>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style type='text/css'>
+    /*設定 數字靠右*/
+    td:nth-child(2n) {
+        text-align: right;
+    }
+</style>
+
+<div>
+    
+    <h4>Country Configurations</h4>
+
+</div>
+
+<p>
+    @Html.ActionLink("Create New", "CountryConfigCreate")
+</p>
+
+<div>
+
+    <table class="table table-bordered table-condensed navbar navbar-fixed nowrap header" style="position:relative; top:50px; width:100px;">
+        <tr>
+            <td>@Html.Display(" ")</td>
+            <td>
+                @Html.DisplayNameFor(model => model.countryName)
+            </td>
+        </tr>
+    </table>
+
+
+    <div class="content" style="height:300px;">
+
+        <table class="table table-bordered table-hover table-condensed nowrap data sc">
+
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.ActionLink("Edit", "CountryConfigEdit", new { id = item.countryConfigId })
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.countryName)
+                    </td>
+
+                </tr>
+            }
+
+        </table>
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Styles.Render("~/Content/tablestyles.css")
+
+
+
+
+    @Scripts.Render("~/Scripts/scrollscript.js")
+
+}

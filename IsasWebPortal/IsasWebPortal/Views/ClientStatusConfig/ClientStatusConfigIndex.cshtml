@@ -1,0 +1,68 @@
+﻿@model IEnumerable<IsasWebPortal.Models.ClientStatusConfig>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style type='text/css'>
+    /*設定 數字靠右*/
+    td:nth-child(2n) {
+        text-align: right;
+    }
+</style>
+
+<div>
+
+    @*<h2>Index</h2>*@
+    <h4>Client Status Configurations</h4>
+    <p>
+        @Html.ActionLink("Create New", "ClientStatusConfigCreate")
+    </p>
+
+</div>
+
+<div>
+
+    <table class="table table-bordered table-condensed navbar navbar-fixed nowrap header" style="position:relative; top:50px; width:100px;">
+
+
+        <tr>
+
+            <td>@Html.Display(" ")</td>
+            <td>
+                @Html.DisplayNameFor(model => model.Status)
+            </td>
+        </tr>
+    </table>
+
+    <div class="content" style="height:300px;">
+
+        <table class="table table-bordered table-hover table-condensed nowrap data sc">
+
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.ActionLink("Edit", "ClientStatusConfigEdit", new { id = item.ClientStatusConfigId })
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Status)
+                    </td>
+
+                </tr>
+            }
+
+        </table>
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Styles.Render("~/Content/tablestyles.css")
+
+
+
+
+    @Scripts.Render("~/Scripts/scrollscript.js")
+
+}

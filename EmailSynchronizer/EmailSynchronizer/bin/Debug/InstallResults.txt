@@ -1,0 +1,1710 @@
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting........
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Creating EventLog source EmailSynchronizer in log Application...
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Rolling back assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Restoring event log to previous state for source EmailSynchronizer.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+The installation failed, and the rollback has been performed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting........
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting........
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting........
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting........
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Creating EventLog source EmailSynchronizer in log Application...
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Rolling back assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Restoring event log to previous state for source EmailSynchronizer.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+The installation failed, and the rollback has been performed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting........
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting........
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting........
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Creating EventLog source EmailSynchronizer in log Application...
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Rolling back assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Restoring event log to previous state for source EmailSynchronizer.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+The installation failed, and the rollback has been performed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 
+The EmailSynchronizer service is starting.
+The EmailSynchronizer service was started successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -i EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET start "EmailSynchronizer" 

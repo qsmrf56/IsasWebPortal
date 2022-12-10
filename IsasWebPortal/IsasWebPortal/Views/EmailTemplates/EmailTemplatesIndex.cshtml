@@ -1,0 +1,68 @@
+﻿@model IEnumerable<IsasWebPortal.Models.EmailTemplates>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style type='text/css'>
+    /*設定 數字靠右*/
+    td:nth-child(2n) {
+        text-align: right;
+    }
+</style>
+<div>
+    <h4>Email Templates</h4>
+    <p>
+        @Html.ActionLink("Create New", "EmailTemplatesCreate")
+    </p>
+
+</div>
+
+<div>
+
+    <table class="table table-bordered table-condensed navbar navbar-fixed nowrap header" style="position:relative; top:50px; width:100px;">
+        <tr>
+
+            <td>@Html.Display(" ")</td>
+            <td>
+                @Html.DisplayNameFor(model => model.templateName)
+            </td>
+            <td>
+                @Html.DisplayNameFor(model => model.Body)
+            </td>
+        </tr>
+    </table>
+
+    <div class="content" style="height:300px;">
+
+        <table class="table table-bordered table-hover table-condensed nowrap data sc">
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.ActionLink("Edit", "EmailTemplatesEdit", new { id = item.Id })
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.templateName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Body)
+                    </td>
+
+                </tr>
+            }
+
+        </table>
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Styles.Render("~/Content/tablestyles.css")
+
+
+
+
+    @Scripts.Render("~/Scripts/scrollscript.js")
+
+}

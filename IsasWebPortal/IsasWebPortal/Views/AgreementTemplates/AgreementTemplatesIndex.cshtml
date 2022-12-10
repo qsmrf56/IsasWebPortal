@@ -1,0 +1,82 @@
+﻿@model IEnumerable<IsasWebPortal.Models.AgreementTemplates>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style type='text/css'>
+    /*設定 數字靠右*/
+    td:nth-child(2n){text-align: right;}
+</style>
+<h2>Index</h2>
+<h4>AgreementTemplates</h4>
+<p>
+    @Html.ActionLink("Create New", "AgreementTemplatesCreate")
+</p>
+<table class="table">
+    <tr>
+        <th></th>
+        <th>
+            @Html.DisplayNameFor(model => model.templateName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.headerGraphicTL)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.headerGraphicM)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.headerGraphicTR)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Body)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.signature)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink("Edit", "AgreementTemplatesEdit", new { id=item.Id })
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.templateName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.headerGraphicTL)
+            @{
+    var imageSource = item.headerGraphicTL == null ? "" : Url.Content(item.headerGraphicTL);
+            }
+            <img src="@imageSource" alt="" />
+            
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.headerGraphicM)
+            @{
+     imageSource = item.headerGraphicM == null ? "" : Url.Content(item.headerGraphicM);
+            }
+            <img src="@imageSource" alt="" />
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.headerGraphicTR)
+            @{
+     imageSource = item.headerGraphicTR == null ? "" : Url.Content(item.headerGraphicTR);
+            }
+            <img src="@imageSource" alt="" />
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Body)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.signature)
+            @{
+    imageSource = item.signature == null ? "" : Url.Content(item.signature);
+            }
+            <img src="@imageSource" alt="" />
+        </td>
+
+    </tr>
+}
+
+</table>

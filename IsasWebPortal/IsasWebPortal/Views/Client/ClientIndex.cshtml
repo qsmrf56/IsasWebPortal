@@ -1,0 +1,145 @@
+﻿@model IEnumerable<IsasWebPortal.Models.Client>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style type='text/css'>
+    /*設定 數字靠右*/
+    td:nth-child(2n) {
+        text-align: right;
+    }
+</style>
+
+<div>
+
+    <h4>Home</h4>
+    <h5>Clients</h5>
+    <p>
+        @Html.ActionLink("Create New", "ClientCreate")
+    </p>
+
+</div>
+
+
+@*<table class="table">
+    <tr>
+        <th></th>
+        <th valign="middle">
+            @Html.DisplayNameFor(model => model.firstName)
+        </th>
+        <th valign="middle">
+            @Html.DisplayNameFor(model => model.middleName)
+        </th>
+        <th valign="middle">
+            @Html.DisplayNameFor(model => model.lastName)
+        </th>
+        <th valign="middle">
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th valign="middle">
+            @Html.DisplayNameFor(model => model.contactNumber)
+        </th>
+    </tr>*@
+
+
+
+    <div>
+
+    <table class="table table-bordered table-condensed navbar navbar-fixed nowrap header" style="position:relative; top:50px; width:100px;" >
+
+      
+       
+
+
+        <tr>
+            <td>@Html.Display(" ")</td>
+            <td>@Html.Display(" ")</td>
+            <td>@Html.DisplayNameFor(model => model.firstName)</td>
+            <td>@Html.DisplayNameFor(model => model.middleName)</td>
+            <td>@Html.DisplayNameFor(model => model.lastName)</td>
+            <td>@Html.DisplayNameFor(model => model.Address)</td>
+            <td>@Html.DisplayNameFor(model => model.contactNumber)</td>
+        </tr>
+    </table>
+
+        <div class="content" style="height:300px;">
+
+            <table class="table table-bordered table-hover table-condensed nowrap data sc">
+
+
+
+                @foreach (var item in Model)
+                {
+
+                    <tr class="normalRow">
+                        <td>
+                            @Html.ActionLink("Edit", "ClientEdit", new { id = item.clientId })
+                        </td>
+                        <td>
+                            @Html.ActionLink("View Cases", "AddCase", new { id = item.clientId })
+                        </td>
+                        <td>@Html.DisplayFor(modelItem => item.firstName)</td>
+                        <td>@Html.DisplayFor(modelItem => item.middleName)</td>
+                        <td>@Html.DisplayFor(modelItem => item.lastName)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Address)</td>
+                        <td>@Html.DisplayFor(modelItem => item.contactNumber)</td>
+
+
+                    </tr>
+
+
+                   
+
+
+                }
+
+            </table>
+
+        </div>
+</div>
+                @*@foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.ActionLink("Edit", "ClientEdit", new { id = item.clientId })
+                        </td>
+                        <td>
+                            @Html.ActionLink("View Cases", "AddCase", new { id = item.clientId })
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.firstName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.middleName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.lastName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Address)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.contactNumber)
+                        </td>
+
+                    </tr>
+                }
+
+        </table>*@
+
+
+
+
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+@Styles.Render("~/Content/tablestyles.css")
+
+
+
+
+@Scripts.Render("~/Scripts/scrollscript.js")
+
+}

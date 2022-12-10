@@ -1,0 +1,165 @@
+﻿@model IEnumerable<IsasWebPortal.Models.FormTemplates>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style type='text/css'>
+    /*設定 數字靠右*/
+    td:nth-child(3n){text-align: right;}
+    td:nth-child(20n){text-align: right;}
+</style>
+<@*h4>index</h4>*@
+
+    <div>
+
+        <h4>FormTemplates</h4>
+        <p>
+            @Html.ActionLink("Create New", "FormTemplatesCreate")
+        </p>
+
+    </div>
+
+
+    <div>
+
+        <table class="table table-bordered table-condensed navbar navbar-fixed nowrap header" style="position:relative; top:50px;">
+            <tr>
+
+
+                <td>
+                    @Html.DisplayNameFor(model => model.formTypeId)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.formName)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.attribute1)
+                    </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.attribute2)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.attribute3)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.attribute4)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.attribute5)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.attribute6)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.attribute7)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.attribute8)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.attribute9)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.attribute10)
+                </td>
+                <th>
+                    @Html.DisplayNameFor(model => model.attribute11)
+                    </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.attribute12)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.attribute13)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.attribute14)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.attribute15)
+                </td>
+            </tr>
+        </table>
+
+
+        <div class="content" style="height:300px;">
+
+            <table class="table table-bordered table-hover table-condensed nowrap data sc">
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.ActionLink("Edit", "FormTemplatesEdit", new { id = item.Id })
+                        </td>
+                        <td>
+                            @Html.ActionLink("View Form", "ViewForm", new { id = item.Id })
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.formsTypes.formType)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.formName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.attribute1)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.attribute2)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.attribute3)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.attribute4)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.attribute5)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.attribute6)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.attribute7)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.attribute8)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.attribute9)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.attribute10)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.attribute11)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.attribute12)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.attribute13)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.attribute14)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.attribute15)
+                        </td>
+
+                    </tr>
+                }
+
+           </table>
+    </div>
+</div>
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+        @Styles.Render("~/Content/tablestyles.css")
+
+
+
+
+        @Scripts.Render("~/Scripts/scrollscript.js")
+
+    }

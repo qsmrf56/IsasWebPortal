@@ -1,0 +1,42 @@
+﻿@model IEnumerable<IsasWebPortal.Models.Attachments>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style type='text/css'>
+    /*設定 數字靠右*/
+    td:nth-child(2n){text-align: right;}
+    td:nth-child(4n){text-align: right;}
+</style>
+<h2>Index</h2>
+<h4>Attachments</h4>
+<p>
+    @Html.ActionLink("Create New", "AttachmentsCreate")
+</p>
+<table class="table">
+    <tr>
+        <th></th>
+        <th>
+            @Html.DisplayNameFor(model => model.emailCommunicationLogs.Body)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.attachmentPath)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink("Edit", "AttachmentsEdit", new { id=item.Id })
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.emailCommunicationLogs.Body)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.attachmentPath)
+        </td>
+
+    </tr>
+}
+
+</table>

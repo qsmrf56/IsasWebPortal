@@ -1,0 +1,12 @@
+﻿@model IsasWebPortal.Models.ApplicationTypeConfig
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.applicationType, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.applicationType, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.applicationType,"" , new { @class = "text-danger" })
+            </div>
+        </div>
+
+@Html.HiddenFor(m => m.applicationTypeConfigId)
+

@@ -1,0 +1,93 @@
+﻿@model IsasWebPortal.Models.ClientCase
+<div class="form-group">
+    <div class="editor-label">
+
+        @Html.Label("Email Address")
+    </div>
+    <div class="editor-field">
+        @*class="col-md-10"> *@
+        @Html.EditorFor(model => model.email, new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => model.email, "", new { @class = "text-danger" })
+    </div>
+</div>
+    @*
+        <div class="editor-label">
+
+            @Html.Label("client ID")
+        </div>
+        <div class="editor-field">
+            @*class="col-md-10">
+            @Html.EditorFor(model => model.clientId, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.clientId, "", new { @class = "text-danger" })
+        </div>
+    *@
+
+    @Html.HiddenFor(model => model.clientId)
+
+
+
+    <div class="form-group">
+        <div class="editor-label">
+            @Html.Label("Country")
+        </div>
+        <div class="editor-field">
+            @*Html.HiddenFor(model => model.countryConfigId)*@
+            @Html.DropDownListFor(model => model.countryConfigId, (SelectList)ViewBag.countryConfigId, new { @class = "form-control" })
+            @*.DropDownList("Countries", null, htmlAttributes: new { @class = "form-control" })*@
+            @Html.ValidationMessageFor(model => model.countryConfigId, "", new { @class = "text-danger" })
+
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <div class="form-group">
+        <div class="editor-label">
+            @Html.Label("Client Status")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(model => model.clientStatusConfigId, (SelectList)ViewBag.clientStatusConfigId, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.clientStatusConfigId, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+
+
+    @*
+        <div class="form-group">
+            <label class="control-label col-md-2" for="countryConfigId">Department</label>
+            <div class="editor-field">
+                @*Html.DropDownList("countryConfigId", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownListFor(model => model.countryConfigId, (SelectList)ViewBag.countryConfigId, new { @class = "form-control" })
+                @Html.DropDownListFor(model => model.countryConfigId, (SelectList)ViewBag.countryConfigId)@*, new { @onchange = "this.form.submit();" })
+                @Html.ValidationMessageFor(model => model.countryConfigId, "", new { @class = "text-danger" })
+            </div>
+            </div>
+    *@
+
+    <div class="form-group">
+        <div class="editor-label">
+            @Html.Label("Application Type")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(model => model.applicationTypeConfigId, (SelectList)ViewBag.applicationTypeConfigIdView, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.applicationTypeConfigId, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="editor-label">
+            @Html.Label("Application Stage")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(model => model.stageId, (SelectList)ViewBag.StagesId, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.stageId, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+
+

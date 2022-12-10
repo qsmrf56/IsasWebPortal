@@ -1,0 +1,136 @@
+﻿@model IEnumerable<IsasWebPortal.Models.EmailCommunicationLog>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style type='text/css'>
+    /*設定 數字靠右*/
+    td:nth-child(6n) {
+        text-align: right;
+    }
+
+    td:nth-child(7n) {
+        text-align: right;
+    }
+
+    td:nth-child(8n) {
+        text-align: right;
+    }
+
+    td:nth-child(9n) {
+        text-align: right;
+    }
+</style>
+
+<div>
+
+    <h4>Mail Box</h4>
+    <h2>Sent Emails</h2>
+
+    <p>
+        @Html.ActionLink("Draft New Email", "EmailCommunicationLogCreate", new { id = ViewBag.storedClientCaseId }, null)
+        @Html.ActionLink("Received Emails", "ReceivedEmailsViaIMAP", new { id = ViewBag.storedClientCaseId }, null)
+
+    </p>
+
+</div>
+
+@Html.Raw(TempData["msg"])
+
+<div>
+
+    <table class="table table-bordered table-condensed navbar navbar-fixed nowrap header" style="position:relative; top:50px; width:100px;">
+        <tr>
+
+            @*  <th>
+                    @Html.DisplayNameFor(model => model.agreementTemplatess.templateName)
+                </th>
+            *@
+            <td>
+                @*@Html.DisplayNameFor(model => model.clientCaseConfigs.email)*@
+                @Html.DisplayName("Default Email")
+            </td>
+            @* <th>
+                    @Html.DisplayNameFor(model => model.emailTemplatess.templateName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Body)
+                </th>
+            *@
+            <td>
+                @Html.DisplayNameFor(model => model.timeStamp)
+            </td>
+            <td>
+                @Html.DisplayNameFor(model => model.toAddress)
+            </td>
+            <td>
+                @Html.DisplayNameFor(model => model.fromAddress)
+            </td>
+
+        </tr>
+    </table>
+
+    <div class="content" style="height:300px;">
+
+        <table class="table table-bordered table-hover table-condensed nowrap data sc">
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    @*  <td>
+                            @Html.ActionLink("Edit", "EmailCommunicationLogEdit", new { id=item.Id })
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.agreementTemplatess.templateName)
+                        </td>
+                    *@
+                    <td>
+                        @Html.DisplayFor(modelItem => item.defaultEmailAddress)
+                    </td>
+                    @*  <td>
+                            @Html.DisplayFor(modelItem => item.emailTemplatess.templateName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Body)
+                        </td>
+                    *@
+                    <td>
+                        @Html.DisplayFor(modelItem => item.timeStamp)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.toAddress)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.fromAddress)
+                    </td>
+                    <td>
+                        @Html.ActionLink("View Email", "ViewSentEmail", new { id = item.Id })
+                    </td>
+                    @*   <td>
+                            @Html.DisplayFor(modelItem => item.formLink)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.isSent)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.isReceived)
+                        </td>
+                    *@
+                </tr>
+            }
+
+        </table>
+
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Styles.Render("~/Content/tablestyles.css")
+
+
+
+
+    @Scripts.Render("~/Scripts/scrollscript.js")
+
+}

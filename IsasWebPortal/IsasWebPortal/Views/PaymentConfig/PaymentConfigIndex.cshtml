@@ -1,0 +1,56 @@
+﻿@model IEnumerable<IsasWebPortal.Models.PaymentConfig>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style type='text/css'>
+    /*設定 數字靠右*/
+    td:nth-child(3n){text-align: right;}
+    td:nth-child(5n){text-align: right;}
+    td:nth-child(6n){text-align: right;}
+    td:nth-child(7n){text-align: right;}
+</style>
+<h2>Index</h2>
+<h4>PaymentConfig</h4>
+<p>
+    @Html.ActionLink("Create New", "PaymentConfigCreate")
+</p>
+<table class="table">
+    <tr>
+        <th></th>
+        <th>
+            @Html.DisplayNameFor(model => model.planTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.paymentSeqNum)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Percentage)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.flatAmount)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink("Edit", "PaymentConfigEdit", new { id=item.PaymentConfigId })
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.planTitle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.paymentSeqNum)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Percentage)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.flatAmount)
+        </td>
+
+    </tr>
+}
+
+</table>

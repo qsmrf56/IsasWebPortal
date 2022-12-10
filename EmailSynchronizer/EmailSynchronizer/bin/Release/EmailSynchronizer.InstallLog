@@ -1,0 +1,8 @@
+﻿Installing assembly 'C:\Users\qsmrf\Desktop\EmailSynchronizer\EmailSynchronizer\bin\Release\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qsmrf\Desktop\EmailSynchronizer\EmailSynchronizer\bin\Release\EmailSynchronizer.InstallLog
+   assemblypath = C:\Users\qsmrf\Desktop\EmailSynchronizer\EmailSynchronizer\bin\Release\EmailSynchronizer.exe
+Installing service EmailSynchronizer...
+Service EmailSynchronizer has been successfully installed.
+Creating EventLog source EmailSynchronizer in log Application...

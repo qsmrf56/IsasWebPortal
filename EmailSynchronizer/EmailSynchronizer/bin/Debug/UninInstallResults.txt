@@ -1,0 +1,1127 @@
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The service is starting or stopping.  Please try again later.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+Attempt to stop service EmailSynchronizer.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Warning: The source EmailSynchronizer is not registered on the local machine.
+Service EmailSynchronizer is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The service is starting or stopping.  Please try again later.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+Attempt to stop service EmailSynchronizer.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The service is starting or stopping.  Please try again later.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+Attempt to stop service EmailSynchronizer.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Warning: The source EmailSynchronizer is not registered on the local machine.
+Service EmailSynchronizer is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The service is starting or stopping.  Please try again later.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+Attempt to stop service EmailSynchronizer.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Warning: The source EmailSynchronizer is not registered on the local machine.
+Service EmailSynchronizer is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The service is starting or stopping.  Please try again later.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+Attempt to stop service EmailSynchronizer.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The service is starting or stopping.  Please try again later.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+Attempt to stop service EmailSynchronizer.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The service is starting or stopping.  Please try again later.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+Attempt to stop service EmailSynchronizer.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The service is starting or stopping.  Please try again later.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+Attempt to stop service EmailSynchronizer.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Warning: The source EmailSynchronizer is not registered on the local machine.
+Service EmailSynchronizer is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The service is starting or stopping.  Please try again later.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+Attempt to stop service EmailSynchronizer.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The service is starting or stopping.  Please try again later.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+Attempt to stop service EmailSynchronizer.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The EmailSynchronizer service is stopping.
+The EmailSynchronizer service was stopped successfully.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+
+The uninstall has completed.
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>NET stop "EmailSynchronizer" 
+The service is starting or stopping.  Please try again later.
+
+
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug>InstallUtil.exe -u EmailSynchronizer.exe 
+Microsoft (R) .NET Framework Installation utility Version 4.6.81.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe assembly's progress.
+The file is located at C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.InstallLog
+Removing EventLog source EmailSynchronizer.
+Service EmailSynchronizer is being removed from the system...
+Service EmailSynchronizer was successfully removed from the system.
+Attempt to stop service EmailSynchronizer.
+
+The uninstall has completed.

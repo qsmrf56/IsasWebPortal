@@ -1,0 +1,9 @@
+C:\Users\qsmrf\Desktop\EmailSynchronizer\EmailSynchronizer\bin\Release\EmailSynchronizer.exe.config
+C:\Users\qsmrf\Desktop\EmailSynchronizer\EmailSynchronizer\bin\Release\EmailSynchronizer.exe
+C:\Users\qsmrf\Desktop\EmailSynchronizer\EmailSynchronizer\bin\Release\EmailSynchronizer.pdb
+C:\Users\qsmrf\Desktop\EmailSynchronizer\EmailSynchronizer\bin\Release\log4net.dll
+C:\Users\qsmrf\Desktop\EmailSynchronizer\EmailSynchronizer\obj\Release\EmailSynchronizer.csprojResolveAssemblyReference.cache
+C:\Users\qsmrf\Desktop\EmailSynchronizer\EmailSynchronizer\obj\Release\EmailSynchronizer.ProjectInstaller.resources
+C:\Users\qsmrf\Desktop\EmailSynchronizer\EmailSynchronizer\obj\Release\EmailSynchronizer.csproj.GenerateResource.Cache
+C:\Users\qsmrf\Desktop\EmailSynchronizer\EmailSynchronizer\obj\Release\EmailSynchronizer.exe
+C:\Users\qsmrf\Desktop\EmailSynchronizer\EmailSynchronizer\obj\Release\EmailSynchronizer.pdb

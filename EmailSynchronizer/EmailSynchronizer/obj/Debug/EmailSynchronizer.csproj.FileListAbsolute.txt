@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+c:\users\administrator\documents\visual studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\obj\Debug\EmailSynchronizer.exe
+c:\users\administrator\documents\visual studio 2013\Projects\EmailSynchronizer\EmailSynchronizer\obj\Debug\EmailSynchronizer.pdb
+C:\Users\qsmrf\Desktop\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe.config
+C:\Users\qsmrf\Desktop\EmailSynchronizer\EmailSynchronizer\obj\Debug\EmailSynchronizer.exe
+C:\Users\qsmrf\Desktop\EmailSynchronizer\EmailSynchronizer\obj\Debug\EmailSynchronizer.pdb
+C:\Users\qsmrf\Desktop\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.exe
+C:\Users\qsmrf\Desktop\EmailSynchronizer\EmailSynchronizer\bin\Debug\EmailSynchronizer.pdb
+C:\Users\qsmrf\Desktop\EmailSynchronizer\EmailSynchronizer\obj\Debug\EmailSynchronizer.csprojResolveAssemblyReference.cache
+C:\Users\qsmrf\Desktop\EmailSynchronizer\EmailSynchronizer\obj\Debug\EmailSynchronizer.ProjectInstaller.resources
+C:\Users\qsmrf\Desktop\EmailSynchronizer\EmailSynchronizer\obj\Debug\EmailSynchronizer.csproj.GenerateResource.Cache

@@ -1,0 +1,41 @@
+﻿@model IEnumerable<IsasWebPortal.Models.EmailVault>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style type='text/css'>
+    /*設定 數字靠右*/
+    td:nth-child(2n){text-align: right;}
+</style>
+<h2>Index</h2>
+<h4>EmailVault</h4>
+<p>
+    @Html.ActionLink("Create New", "EmailVaultCreate")
+</p>
+<table class="table">
+    <tr>
+        <th></th>
+        <th>
+            @Html.DisplayNameFor(model => model.password)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.email)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink("Edit", "EmailVaultEdit", new { id=item.id })
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.password)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.email)
+        </td>
+
+    </tr>
+}
+
+</table>

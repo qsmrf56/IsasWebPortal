@@ -1,0 +1,95 @@
+﻿@model IsasWebPortal.Models.FormData
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+
+
+
+    <div class="form-horizontal">
+        <h4>FormData</h4>
+        @Html.HiddenFor(m => Model.formTemplateId)
+        @Html.HiddenFor(m => Model.emailCommLogId)
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.Partial("FormDataEditForm")
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+        @*<div id="ddlPassport" onclick="ShowHideDataDiv()" onclass="form-group">*@
+            <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+                </div>
+        
+        
+    
+    </div>
+    
+}
+
+@*<div>
+    @Html.ActionLink("Back to List","FormTemplatesIndex", "FormTemplates")
+</div>*@
+
+@section Scripts{
+
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/Scripts/reflectAttributeNames.js")   
+}
+
+@*@section Scripts{
+
+
+    function ShowHideDataDiv() {
+    
+        //  var ddlPassport = document.getElementById('<%=ddlPassport.ClientID%>');
+        //var ddlPassport = document.getElementById("formTypeId");
+
+        var ddlPassport =   @Html.Raw(Json.Encode(@(Model.formTemplateId));
+    
+  
+
+        var nofatt = SelectNumberofAllowedAttributes(ddlPassport.options[ddlPassport.selectedIndex].text);
+        var NoOfAttr = parseInt(nofatt.match(/\d+/)[0]);
+
+        //var textboxesToHide = 15 - NoOfAttr;
+        // var e = document.getElementById("ddlPassport");
+        // var strUser = e.options[e.selectedIndex].val;
+
+   
+        //  dvPassport.style.display =  == 'Agreement' ? "block" : "none";
+        //dvPassport.style.visibility = ddlPassport.value == "1" ? "block" : "none";
+
+        for (i = 1; i <= NoOfAttr; i++) {
+            var dvPassport = document.getElementById("attribute" + i);
+            // dvPassport.textContent = dvPassport.textContent;
+            dvPassport.style.display = "block";
+        
+
+        }
+
+        for (i = NoOfAttr+1; i <= 15; i++)
+        {
+            var dvPassport = document.getElementById("attribute" + i);
+            //dvPassport.value = "";
+            dvPassport.style.display = "none";
+        }
+
+  
+   
+   
+    
+
+    
+    
+    
+
+
+
+}*@

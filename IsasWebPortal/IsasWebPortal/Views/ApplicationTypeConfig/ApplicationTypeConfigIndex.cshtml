@@ -1,0 +1,35 @@
+﻿@model IEnumerable<IsasWebPortal.Models.ApplicationTypeConfig>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style type='text/css'>
+    /*設定 數字靠右*/
+    td:nth-child(2n){text-align: right;}
+</style>
+<h2>Index</h2>
+<h4>ApplicationTypeConfig</h4>
+<p>
+    @Html.ActionLink("Create New", "ApplicationTypeConfigCreate")
+</p>
+<table class="table">
+    <tr>
+        <th></th>
+        <th>
+            @Html.DisplayNameFor(model => model.applicationType)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink("Edit", "ApplicationTypeConfigEdit", new { id=item.applicationTypeConfigId })
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.applicationType)
+        </td>
+
+    </tr>
+}
+
+</table>
